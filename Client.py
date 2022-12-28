@@ -3,7 +3,7 @@ import socket
 
 
 def Main():
-    # local host IP '127.0.0.1' 25.49.206.164
+    # local host IP '127.0.0.1'
     host = '127.0.0.1'
 
     # Define the port on which you want to connect
